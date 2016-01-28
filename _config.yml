@@ -1,0 +1,28 @@
+name: HongKong
+favicon: null
+layout_spectrum: 0.20266544469632208
+typography_spectrum: 0.22612957609817386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9471786846406758
+  lightness: 0.7748598975595087
+  saturation: 0.2181476424448192
+  rhythmicContrast: 0.28184520127251744
+purpose: []
